@@ -1,5 +1,5 @@
 # Privacy Policy for Dayzure.com
-##Effective Date: September 30, 2025
+## Effective Date: September 30, 2025
 
 dayzure.com respects your privacy. We do not collect personal data, create user accounts, or operate any protected areas requiring login.
 
